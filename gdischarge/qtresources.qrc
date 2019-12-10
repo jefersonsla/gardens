@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/poweroffred.png</file>
+        <file>icon/gardens.jpeg</file>
+        <file>icon/img001.ico</file>
+        <file>icon/img005.ico</file>
+        <file>icon/img003.ico</file>
+        <file>icon/img002.ico</file>
+        <file>icon/img007.png</file>
+        <file>icon/loader01.gif</file>
+        <file>icon/loader02.gif</file>
+        <file>icon/loader03.gif</file>
+    </qresource>
+</RCC>
